@@ -1,2 +1,4 @@
 # hello-world
-my first repository
+My name is Ibrahim Munaser
+
+I like to code, and wish be a software engineer in the future.
